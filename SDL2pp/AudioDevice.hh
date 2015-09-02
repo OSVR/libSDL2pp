@@ -25,7 +25,7 @@
 #include <functional>
 #include <string>
 
-#include <SDL2/SDL_audio.h>
+#include <SDL_audio.h>
 
 #include <SDL2pp/Optional.hh>
 #include <SDL2pp/Config.hh>

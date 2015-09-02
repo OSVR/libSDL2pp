@@ -22,7 +22,7 @@
 #ifndef SDL2PP_RECT_HH
 #define SDL2PP_RECT_HH
 
-#include <SDL2/SDL_rect.h>
+#include <SDL_rect.h>
 
 #include <SDL2pp/Optional.hh>
 

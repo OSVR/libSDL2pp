@@ -24,7 +24,7 @@
 
 #include <iostream>
 
-#include <SDL2/SDL_rect.h>
+#include <SDL_rect.h>
 
 namespace SDL2pp {
 

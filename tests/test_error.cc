@@ -1,4 +1,4 @@
-#include <SDL2/SDL_error.h>
+#include <SDL_error.h>
 
 #include <SDL2pp/Exception.hh>
 
